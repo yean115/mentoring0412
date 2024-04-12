@@ -3,5 +3,8 @@
 
 
 
-for i in range(10):
-    print(i)
+for i in range(True):
+    print(a)
+    1111
+
+# ㅎㅎ 서현님 바보
