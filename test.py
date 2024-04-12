@@ -4,7 +4,7 @@
 
 
 for i in range(True):
-    print(a)
-    1111
+    print(abc)
+    11112222
 
-# ㅎㅎ 서현님 바보
+# ㅎㅎ 예은님 바보
